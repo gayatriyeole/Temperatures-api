@@ -13,7 +13,7 @@ Input -
 	"Temperature in celsius":45
 }
 
-Output -
+Output :-
 
 {
    "id": 1,
